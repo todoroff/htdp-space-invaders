@@ -3,4 +3,4 @@
 
 If you have DrRacket, you can play this game by running the code and entering `(main G0)` in the REPL.
 
-![space invaders screenshot](https://i.imgur.com/dc9fccg.png)
+![space invaders screenshot](https://thumbs.gfycat.com/ClearcutSmartHadrosaurus-size_restricted.gif)
